@@ -1,4 +1,4 @@
-# Sr-annie Backend
+# Dr-annie Backend
 
 ## Overview
 This backend was developed using **Flask** during the COVID-19 pandemic to support an AI-powered application. The system provides functionalities for disease detection and prediction based on deep learning models. It processes images, performs classifications, and enables secure API-based access to AI-driven diagnosis tools.
